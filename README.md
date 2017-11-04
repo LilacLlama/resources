@@ -17,6 +17,9 @@
 ### GameDev Tutorial
 * [Trystan's Roguelike Tutorial](https://trystans.blogspot.dk/2016/01/roguelike-tutorial-00-table-of-contents.html)
 
+### Some Mach Learning
+* [A Beginner’s Guide to Recurrent Networks and LSTMs](https://deeplearning4j.org/lstm.html)
+
 ## Interesting APIs
 * [DBPedia](http://wiki.dbpedia.org/)
 * [SpeciesAPI](https://www.gbif.org/developer/species)
