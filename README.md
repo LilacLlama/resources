@@ -1,7 +1,8 @@
 # Resources Worth Investigating:
 
 ## Favorite Jams / Hackathons
-[ProcJam - Make something MAKE something!](http://www.procjam.com/art/)
+* [ProcJam - Make something MAKE something!](http://www.procjam.com/art/)
+* [Github GameOff w/ Godot](https://godotengine.org/article/get-ready-github-gameoff-godot)
 
 ## Procedural work / Game resources
 * [Versu](https://versu.com/) :star:
