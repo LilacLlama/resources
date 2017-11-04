@@ -6,6 +6,7 @@
 
 ## Procedural work / Game resources
 * [Versu](https://versu.com/) :star:
+* [Theophrastus' Characters](http://www.eudaemonist.com/biblion/characters/)
 
 ## Interesting APIs
 * [DBPedia](http://wiki.dbpedia.org/)
