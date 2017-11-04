@@ -21,6 +21,7 @@
 
 ### GameDev Tutorial
 * [Trystan's Roguelike Tutorial](https://trystans.blogspot.dk/2016/01/roguelike-tutorial-00-table-of-contents.html)
+* [Boids in JAVA!](https://rosettacode.org/wiki/Boids/Java)
 
 ### Some Mach Learning
 * [Word2Vec](https://deeplearning4j.org/word2vec.html)
