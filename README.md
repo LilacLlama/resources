@@ -4,6 +4,10 @@
 * [ProcJam - Make something MAKE something!](http://www.procjam.com/art/)
 * [Github GameOff w/ Godot](https://godotengine.org/article/get-ready-github-gameoff-godot)
 
+## Damn Fancy People
+* [Em Short & Her Interactive Fiction portfolio](https://emshort.blog/my-work/)
+* [Kate Compton and her Tracery and everything else Mastery!](http://www.galaxykate.com/)
+
 ## Procedural work / Game resources
 * [Versu](https://versu.com/) :star:
 * [Theophrastus' Characters](http://www.eudaemonist.com/biblion/characters/)
