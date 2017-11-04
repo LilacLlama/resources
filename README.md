@@ -4,7 +4,7 @@
 [ProcJam - Make something MAKE something!](http://www.procjam.com/art/)
 
 ## Procedural work / Game resources
-* [Versu](https://versu.com/)
+* [Versu](https://versu.com/) :star:
 
 ## Interesting APIs
 * [DBPedia](http://wiki.dbpedia.org/)
@@ -18,7 +18,9 @@
 
 
 
+
 ### Did you forget markup again?
+[x](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 [x](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 [x](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 [x](https://guides.github.com/features/mastering-markdown/)
