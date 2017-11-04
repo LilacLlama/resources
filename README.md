@@ -19,6 +19,9 @@
 
 ### Some Mach Learning
 * [A Beginner’s Guide to Recurrent Networks and LSTMs](https://deeplearning4j.org/lstm.html)
+* [Recurrent Neural Networks (RNN) and Long Short-Term Memory](https://www.youtube.com/watch?v=WCUNPb-5EYI)
+* [A Gentle Introduction to Long Short-Term Memory Networks](https://machinelearningmastery.com/gentle-introduction-long-short-term-memory-networks-experts/)
+* [Recurrent Neural Networks](https://www.tensorflow.org/tutorials/recurrent)
 
 ## Interesting APIs
 * [DBPedia](http://wiki.dbpedia.org/)
