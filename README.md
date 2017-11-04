@@ -14,7 +14,8 @@
 * [Make your paper SING!](http://msci.itu.dk/smug/)
 
 
-
+## Web-based things
+* [PaperCSS](https://www.getpapercss.com/)
 
 
 
