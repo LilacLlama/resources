@@ -15,6 +15,7 @@
 * [ProcJam resources](http://tracery.io/)
 * [TRACERY!](http://tracery.io/)
 * [Awesome GameDev ResourceList](https://github.com/Calinou/awesome-gamedev)
+* Darius Kazemi’s [Corpora project](https://github.com/dariusk/corpora/tree/master/data)
 
 #### Not sure, but cool
 [The VGLC - videogame maps, easily parseable!](https://github.com/TheVGLC)
