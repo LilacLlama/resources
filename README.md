@@ -3,12 +3,15 @@
 ## Favorite Jams / Hackathons
 [ProcJam - Make something MAKE something!](http://www.procjam.com/art/)
 
+## Procedural work / Game resources
+* [Versu](https://versu.com/)
+
 ## Interesting APIs
-[DBPedia](http://wiki.dbpedia.org/)
-[SpeciesAPI](https://www.gbif.org/developer/species)
+* [DBPedia](http://wiki.dbpedia.org/)
+* [SpeciesAPI](https://www.gbif.org/developer/species)
 
 ## I don't know, it's just cool:
-[Make your paper SING!](http://msci.itu.dk/smug/)
+* [Make your paper SING!](http://msci.itu.dk/smug/)
 
 
 
