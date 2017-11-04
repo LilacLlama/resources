@@ -16,6 +16,7 @@
 
 ## Web-based things
 * [PaperCSS](https://www.getpapercss.com/)
+* [Frappe Charts](https://frappe.github.io/charts/)
 
 
 
