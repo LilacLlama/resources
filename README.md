@@ -13,11 +13,16 @@
 * [Versu](https://versu.com/) :star:
 * [Theophrastus' Characters](http://www.eudaemonist.com/biblion/characters/)
 * [ProcJam resources](http://tracery.io/)
+* [TRACERY!](http://tracery.io/)
+
+#### Not sure, but cool
+[The VGLC - videogame maps, easily parseable!](https://github.com/TheVGLC)
 
 ### GameDev Tutorial
 * [Trystan's Roguelike Tutorial](https://trystans.blogspot.dk/2016/01/roguelike-tutorial-00-table-of-contents.html)
 
 ### Some Mach Learning
+* [Word2Vec](https://deeplearning4j.org/word2vec.html)
 * [A Beginner’s Guide to Recurrent Networks and LSTMs](https://deeplearning4j.org/lstm.html)
 * [Recurrent Neural Networks (RNN) and Long Short-Term Memory](https://www.youtube.com/watch?v=WCUNPb-5EYI)
 * [A Gentle Introduction to Long Short-Term Memory Networks](https://machinelearningmastery.com/gentle-introduction-long-short-term-memory-networks-experts/)
