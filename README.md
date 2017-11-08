@@ -1,5 +1,8 @@
 # Resources Worth Investigating:
 
+## Super Interesting Composits
+* [We Love Papers](https://github.com/papers-we-love/papers-we-love)
+
 ## Favorite Jams / Hackathons
 * [ProcJam - Make something MAKE something!](http://www.procjam.com/art/)
 * [Github GameOff w/ Godot](https://godotengine.org/article/get-ready-github-gameoff-godot)
