@@ -20,6 +20,7 @@
 * [Awesome GameDev ResourceList](https://github.com/Calinou/awesome-gamedev)
 * Darius Kazemi’s [Corpora project](https://github.com/dariusk/corpora/tree/master/data)
 * [PuzzleScript](https://www.puzzlescript.net/Documentation/about.html)
+* [Incrementals & Exponential](https://gamedevelopment.tutsplus.com/articles/numbers-getting-bigger-the-design-and-math-of-incremental-games--cms-24023)
 
 #### Not sure, but cool
 [The VGLC - videogame maps, easily parseable!](https://github.com/TheVGLC)
