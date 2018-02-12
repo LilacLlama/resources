@@ -21,6 +21,14 @@
 * Darius Kazemi’s [Corpora project](https://github.com/dariusk/corpora/tree/master/data)
 * [PuzzleScript](https://www.puzzlescript.net/Documentation/about.html)
 * [Incrementals & Exponential](https://gamedevelopment.tutsplus.com/articles/numbers-getting-bigger-the-design-and-math-of-incremental-games--cms-24023)
+* [Ink! Scripting Language](https://www.inklestudios.com/ink/)
+
+### Game dev in Java
+* [LibGDX](https://libgdx.badlogicgames.com/download.html)
+
+### Art for GameDev
+* [Inclusive CharPack](https://opengameart.org/content/edited-and-extended-24x32-character-pack)
+
 
 #### Not sure, but cool
 [The VGLC - videogame maps, easily parseable!](https://github.com/TheVGLC)
@@ -42,6 +50,7 @@
 
 ## I don't know, it's just cool:
 * [Make your paper SING!](http://msci.itu.dk/smug/)
+* [Make a paper box! Template help/design](http://www.templatemaker.nl/)
 
 
 ## Web-based things
