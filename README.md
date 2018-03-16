@@ -22,6 +22,7 @@
 * [PuzzleScript](https://www.puzzlescript.net/Documentation/about.html)
 * [Incrementals & Exponential](https://gamedevelopment.tutsplus.com/articles/numbers-getting-bigger-the-design-and-math-of-incremental-games--cms-24023)
 * [Ink! Scripting Language](https://www.inklestudios.com/ink/)
+* [Robocode](http://robocode.sourceforge.net/docs/ReadMe.html)
 
 ### Game dev in Java
 * [LibGDX](https://libgdx.badlogicgames.com/download.html)
