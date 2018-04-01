@@ -52,6 +52,7 @@
 ## I don't know, it's just cool:
 * [Make your paper SING!](http://msci.itu.dk/smug/)
 * [Make a paper box! Template help/design](http://www.templatemaker.nl/)
+* [Tone.js](https://tonejs.github.io/)
 
 
 ## Web-based things
